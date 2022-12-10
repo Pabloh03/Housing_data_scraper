@@ -1,2 +1,11 @@
 # Housing_data_scraper
-Program to scrape housing prices and details using Selenium.
+Python Program to scrape housing prices and details using Selenium.
+<br>
+Version requirements:
+<br>
+Jupyter Notebook<br>
+Python 3.8.5<br>
+Selenium 3.141.0<br>
+Pandas 1.4.2<br>
+
+
